@@ -1,0 +1,24 @@
+{
+  "name": "devprojs",
+  "version": "1.0.0",
+  "description": "Testing the Library files",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunpenumalla/testLibraries.git"
+  },
+  "keywords": [
+    "Test",
+    "JavaScript",
+    "Libraries"
+  ],
+  "author": "Varun Penumalla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunpenumalla/testLibraries/issues"
+  },
+  "homepage": "https://github.com/varunpenumalla/testLibraries#readme"
+}
